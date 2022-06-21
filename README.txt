@@ -1,0 +1,1 @@
+Simple calculator console app - training
